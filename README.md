@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AI, ML/DL, CV and NLP
-
 <!--
+- 🔭 I’m currently working on AI, ML/DL, CV and NLP
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
