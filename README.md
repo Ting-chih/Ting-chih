@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Virginia Tech Course Projects:
+  - News category prediction
+
 <!--
 - 🔭 I’m currently working on AI, ML/DL, CV and NLP
 - 🌱 I’m currently learning 
