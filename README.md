@@ -2,6 +2,7 @@
 
 Virginia Tech Projects:
   - News category prediction [Github](https://github.com/ting-chih/CS4824-final-project)
+  - Attacking on disrupting-deepfakes [Github](https://github.com/ting-chih/CS5914-final-project)
 
 <!--
 - 🔭 I’m currently working on AI, ML/DL, CV and NLP
