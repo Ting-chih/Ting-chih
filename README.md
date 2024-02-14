@@ -2,9 +2,9 @@
 
 Virginia Tech Projects:
   - News category prediction [Github](https://github.com/ting-chih/CS4824-final-project) [Report](https://github.com/ting-chih/CS4824-final-project/blob/main/final%20report.pdf)
-  - Attacking on disrupting-deepfakes [Github](https://github.com/ting-chih/CS5914-final-project) [Report]()
-  - Fine-grained image captioning [Github](https://github.com/ting-chih/CS5814-final-project) [Report]()
-  - Heterogeneous graph network for MP-DocVQA [Github](https://github.com/ting-chih/CS6804-final-project) [Report]()
+  - Attacking on disrupting-deepfakes [Github](https://github.com/ting-chih/CS5914-final-project) [Report](https://github.com/ting-chih/CS5914-final-project/blob/main/Final%20report.pdf)
+  - Fine-grained image captioning [Github](https://github.com/ting-chih/CS5814-final-project) [Report](https://github.com/ting-chih/CS5814-final-project/blob/main/final%20DL%20report.pdf)
+  - Heterogeneous graph network for MP-DocVQA [Github](https://github.com/ting-chih/CS6804-final-project) [Report](https://github.com/ting-chih/CS6804-final-project/blob/main/final_report.pdf)
   - Multiple object tracking using GAN [Github](https://github.com/stevend-15/cv-project-fall23) [Report]()
 
 <!--
