@@ -3,6 +3,8 @@
 Virginia Tech Projects:
   - News category prediction [Github](https://github.com/ting-chih/CS4824-final-project)
   - Attacking on disrupting-deepfakes [Github](https://github.com/ting-chih/CS5914-final-project)
+  - Fine-grained image captioning [Github](https://github.com/ting-chih/CS5814-final-project)
+  - Heterogeneous graph network for MP-DocVQA [Github](https://github.com/ting-chih/CS6804-final-project)
 
 <!--
 - 🔭 I’m currently working on AI, ML/DL, CV and NLP
