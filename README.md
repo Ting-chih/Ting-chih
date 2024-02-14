@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Virginia Tech Course Projects:
+Virginia Tech Projects:
   - News category prediction
 
 <!--
