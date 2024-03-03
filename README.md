@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Personal website](https://noto.li/FYNcKd)
+[Personal website]([https://tingchihc.github.io/index.html])
 
 Virginia Tech Projects:
   - News category prediction [Github](https://github.com/ting-chih/CS4824-final-project) [Report](https://github.com/ting-chih/CS4824-final-project/blob/main/final%20report.pdf)
