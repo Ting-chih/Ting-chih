@@ -2,36 +2,10 @@
 
 I'm Tingchih, a machine learning engineer.
 
-## Languages and Tools  
-
-### Programming Languages  
+## Languages and Tools   
 
 <a href="https://go-skill-icons.vercel.app/">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,java,javascript,php,bash,html"/>
-</a>
-
-### Machine Learning / AI  
-
-<a href="https://go-skill-icons.vercel.app/">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,opencv,pytorch,tensorflow"/>
-</a>
-
-### Development Tools / IDEs  
-
-<a href="https://go-skill-icons.vercel.app/">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,xcode,eclipse,visualstudio,jupyter,latex"/>
-</a>
-
-### Cloud / DevOps / Collaboration  
-
-<a href="https://go-skill-icons.vercel.app/">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,s3,docker,github"/>
-</a>
-
-### Design / Embedded / Specialized  
-
-<a href="https://go-skill-icons.vercel.app/">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,androidstudio,cuda,linux"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,java,javascript,php,bash,html,huggingface,opencv,pytorch,tensorflow,androidstudio,xcode,eclipse,visualstudio,jupyter,latex,aws,s3,docker,github,figma,androidstudio,cuda,linux"/>
 </a>
 
 ## Github Stats
