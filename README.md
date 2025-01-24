@@ -26,7 +26,7 @@ I'm Tingchih, a machine learning engineer.
 * (ACL'24) [MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking](https://aclanthology.org/2024.acl-long.474.pdf)  
 * (EMNLP'24) [M3D: MultiModal MultiDocument Fine-Grained Inconsistency Detection](https://aclanthology.org/2024.emnlp-main.1243.pdf)  
 
-## Course Projects  
+## VT Course Projects  
 
 * [News Category Prediction](https://github.com/tingchihc/CS4824-final-project)
 * [Fine-grained image captioning](https://github.com/tingchihc/CS5814-final-project)  
