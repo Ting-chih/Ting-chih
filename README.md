@@ -27,3 +27,8 @@ I'm Tingchih, a machine learning engineer.
 * (EMNLP'24) [M3D: MultiModal MultiDocument Fine-Grained Inconsistency Detection](https://aclanthology.org/2024.emnlp-main.1243.pdf)  
 
 ## Course Projects  
+
+* [News Category Prediction](https://github.com/tingchihc/CS4824-final-project)
+* [Fine-grained image captioning](https://github.com/tingchihc/CS5814-final-project)  
+* [Attacking On Disrupting-Deepfakes: Methodology Transferability And Perturbation Removal](https://github.com/tingchihc/CS5914-final-project)
+* [Heterogeneous Graph Network for Multi-page Document Visual Question Answering](https://github.com/tingchihc/CS6804-final-project)  
