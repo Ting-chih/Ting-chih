@@ -20,3 +20,10 @@ I'm Tingchih, a machine learning engineer.
       </td>
    </tr>
 </table>
+
+## Research Projects  
+
+* (ACL'24)
+* (EMNLP'24)
+
+## Course Projects  
