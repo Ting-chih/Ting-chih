@@ -23,7 +23,7 @@ I'm Tingchih, a machine learning engineer.
 
 ## Research Projects  
 
-* (ACL'24)
+* (ACL'24) MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking  
 * (EMNLP'24)
 
 ## Course Projects  
